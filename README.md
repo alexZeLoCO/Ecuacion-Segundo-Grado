@@ -1,5 +1,5 @@
 # Ecuacion-Segundo-Grado
-Pide coeficientes de ecación de segundo grado y devuelve resultados si es real.
+Pide coeficientes de ecuación de segundo grado y devuelve resultados si es real.
 
 El programa debe imprimir por pantalla varias cosas:
   1- Indicar la ecuacion tiene soluciones reales o complejas.
